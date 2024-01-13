@@ -8,4 +8,4 @@ Tweets and User Engagement Comprehensive Analysis using Microsoft Excel
 click the Github Page Link to see the video
 </video> <br><br>
 
-<img src="Files/Cover Page.png" width="400" height="250" />
+<img src="Files/Cover Page.png" width="800" height="400" />
