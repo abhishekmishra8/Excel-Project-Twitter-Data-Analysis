@@ -6,4 +6,6 @@ Tweets and User Engagement Comprehensive Analysis using Microsoft Excel
 <video width="650" height="360" controls autoplay muted loop>
 <source src="Files/Analysis Video.mp4" type="video/mp4">
 click the Github Page Link to see the video
-</video>
+</video> <br><br>
+
+<img src="Files/Cover Page.png" width="400" height="250" />
